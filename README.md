@@ -8,4 +8,4 @@ Originally based on [this work](https://github.com/dhruvp/wbc-classification), w
 # Purpose
 Find the best architectures (and parameters) to classify the leukocytes.
 
-(to be updated...)
+(to be updated)

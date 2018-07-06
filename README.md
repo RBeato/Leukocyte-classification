@@ -1,5 +1,5 @@
 # Leukocyte-classification
-Using deep learning to classify leukocytes in the 4 most common classes (Eosinophil, Lymphocyte, Monocyte, Neutrophil). Basophils were excluded for being much less frequent.
+Using deep learning (in keras) to classify leukocytes in the 4 most common classes (Eosinophil, Lymphocyte, Monocyte, Neutrophil). Basophils were excluded for being much less frequent.
 Originally based on [this work](https://github.com/dhruvp/wbc-classification), whose main objective is a binary classification. In my work I'm trying a multi-class classification.
 
 # Dataset

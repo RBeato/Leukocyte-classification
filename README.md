@@ -5,6 +5,8 @@ Originally based on [this work](https://github.com/dhruvp/wbc-classification), w
 ## Purpose
 Find the best architectures to classify 4 categories of leukocytes.
 
+Note: Thesis and PDF(Powerpoint) Presentation in portuguese.
+
 --------------------------------------------------------- 
 # Obtaining Deep Learning Models for Automatic Classification of Leukocytes
 

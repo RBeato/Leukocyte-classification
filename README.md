@@ -14,7 +14,7 @@ The number of leukocytes present in the blood provides relevant information rega
 This work describes the classification of leukocyte images using the winning neural network architectures of the annual ILSVRC software contest. 
 The classification of leukocytes is made using pre-trained networks and the same models trained from scratch, in order to select the ones that achieve the best performance for the intended task. The leukocytes categories used were eosinophils, lymphocytes, monocytes and neutrophils. Possibly due to the low prevalence in the blood, it is difficult to obtain enough images of basophils and band leukocytes, so they were excluded from the study.
 
-## Languajes, Frameworks and Implementation
+## Languages, Frameworks and Implementation
 
 The Jupyter Notebook, with the Python language and the Keras API (using the TensorFlow as the backend) were used for the construction and implementation of the leukocyte classification solution.
 The neural architectures used with the Keras library were the ResNet50, the VGG16, the VGG19, the InceptionV3, the Xception, the Densenet121, the Densenet169 and the Densenet201; which are based on articles from reference networks such as LeNet-5, AlexNet, GoogLeNet / Inception, VGGNet and ResNet.
